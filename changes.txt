@@ -25,3 +25,4 @@
 "Commit The plover signals." 
 "Commit The grid bears." 
 "Commit The mailing coughs." 
+"Commit The ego decorates." 
